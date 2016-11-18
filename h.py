@@ -5,3 +5,4 @@ for i, name in enumerate(friends):
 
 # Test 1
 # Test 2 (Online)
+# Test 3 (Desktop)
