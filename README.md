@@ -1,2 +1,0 @@
-# rattlesnake
-Rattlesnake Project
